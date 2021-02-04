@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\bin\Debug\netcoreapp3.1\MySecondConsoleApp.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\MySecondConsoleApp\obj\Debug\netcoreapp3.1\MySecondConsoleApp.genruntimeconfig.cache

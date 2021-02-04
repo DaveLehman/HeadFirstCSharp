@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\bin\Debug\netcoreapp3.1\DoubleLoop.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\DoubleLoop\obj\Debug\netcoreapp3.1\DoubleLoop.genruntimeconfig.cache

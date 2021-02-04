@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\bin\Debug\netcoreapp3.1\AbilityScores.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\AbilityScores\obj\Debug\netcoreapp3.1\AbilityScores.genruntimeconfig.cache

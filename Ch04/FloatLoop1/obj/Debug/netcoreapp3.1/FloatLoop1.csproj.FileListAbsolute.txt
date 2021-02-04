@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\bin\Debug\netcoreapp3.1\FloatLoop1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\FloatLoop1\obj\Debug\netcoreapp3.1\FloatLoop1.genruntimeconfig.cache

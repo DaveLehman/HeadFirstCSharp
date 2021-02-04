@@ -1,0 +1,15 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe.config
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\bin\Debug\ExperimentWithControls.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\MainWindow.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\App.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.lref
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\MainWindow.baml
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.g.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.Properties.Resources.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.GenerateResource.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch02\ExperimentWithControls\obj\Debug\ExperimentWithControls.pdb

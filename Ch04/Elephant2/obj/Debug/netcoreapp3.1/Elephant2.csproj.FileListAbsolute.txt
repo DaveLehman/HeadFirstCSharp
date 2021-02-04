@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\bin\Debug\netcoreapp3.1\Elephant2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch04\Elephant2\obj\Debug\netcoreapp3.1\Elephant2.genruntimeconfig.cache

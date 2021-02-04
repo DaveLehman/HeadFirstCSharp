@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\bin\Debug\netcoreapp3.1\GuyConsole.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\GuyConsole\obj\Debug\netcoreapp3.1\GuyConsole.genruntimeconfig.cache

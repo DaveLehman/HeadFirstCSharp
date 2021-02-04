@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\bin\Debug\netcoreapp3.1\Sharpen.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch03\Sharpen\obj\Debug\netcoreapp3.1\Sharpen.genruntimeconfig.cache
