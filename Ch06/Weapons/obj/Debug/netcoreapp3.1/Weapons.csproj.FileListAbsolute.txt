@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\bin\Debug\netcoreapp3.1\Weapons.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Weapons\obj\Debug\netcoreapp3.1\Weapons.genruntimeconfig.cache

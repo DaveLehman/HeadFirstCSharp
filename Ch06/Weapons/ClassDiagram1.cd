@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Weapons.WeaponDamage">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAEACAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAACARA=</HashCode>
+      <FileName>WeaponDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.SwordDamage">
+    <Position X="1.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAQA=</HashCode>
+      <FileName>SwordDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons.ArrowDamage">
+    <Position X="4.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAYA=</HashCode>
+      <FileName>ArrowDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

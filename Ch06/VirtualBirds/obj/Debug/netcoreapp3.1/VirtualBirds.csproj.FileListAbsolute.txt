@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\bin\Debug\netcoreapp3.1\VirtualBirds.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\VirtualBirds\obj\Debug\netcoreapp3.1\VirtualBirds.genruntimeconfig.cache

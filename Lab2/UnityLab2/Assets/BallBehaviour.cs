@@ -43,6 +43,7 @@ public class BallBehaviour : MonoBehaviour
          * exactly as much as it needs for that frame.
          */
         // Time.delaTime is static -- dont need to instantiate Time
+        // rotate around itself
         transform.Rotate(Vector3.up, 180 * Time.deltaTime);
 
         //rotate around an object

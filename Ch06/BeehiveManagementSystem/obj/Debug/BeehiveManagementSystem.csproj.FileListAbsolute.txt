@@ -1,0 +1,15 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\MainWindow.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\App.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem_MarkupCompile.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem_MarkupCompile.lref
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\MainWindow.baml
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.g.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.GenerateResource.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb

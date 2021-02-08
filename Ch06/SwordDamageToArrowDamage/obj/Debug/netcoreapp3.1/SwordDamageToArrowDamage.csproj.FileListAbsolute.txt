@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\bin\Debug\netcoreapp3.1\SwordDamageToArrowDamage.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\SwordDamageToArrowDamage\obj\Debug\netcoreapp3.1\SwordDamageToArrowDamage.genruntimeconfig.cache

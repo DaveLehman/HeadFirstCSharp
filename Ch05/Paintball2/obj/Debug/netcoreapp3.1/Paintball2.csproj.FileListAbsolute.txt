@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\bin\Debug\netcoreapp3.1\Paintball2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\Paintball2\obj\Debug\netcoreapp3.1\Paintball2.genruntimeconfig.cache

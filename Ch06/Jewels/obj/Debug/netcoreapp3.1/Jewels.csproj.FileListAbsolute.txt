@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\bin\Debug\netcoreapp3.1\Jewels.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Jewels\obj\Debug\netcoreapp3.1\Jewels.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\bin\Debug\netcoreapp3.1\Birds2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch06\Birds2\obj\Debug\netcoreapp3.1\Birds2.genruntimeconfig.cache

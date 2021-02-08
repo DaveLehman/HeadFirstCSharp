@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\bin\Debug\netcoreapp3.1\DamageCalculator.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\DamageCalculator\obj\Debug\netcoreapp3.1\DamageCalculator.genruntimeconfig.cache

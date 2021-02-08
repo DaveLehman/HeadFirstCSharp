@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.genruntimeconfig.cache

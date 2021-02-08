@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\bin\Debug\netcoreapp3.1\HiLow.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch05\HiLow\obj\Debug\netcoreapp3.1\HiLow.genruntimeconfig.cache

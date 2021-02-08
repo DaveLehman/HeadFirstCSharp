@@ -1,0 +1,92 @@
+﻿Build the Beehive Management System. The purpose of the system is to maximize the number of 
+workers assigned to jobs in the hive, and keep the hive running as long as possible until the
+honey runs out.
+
+Rules of the Hive
+Workers can be assigned one of three jobs: nectar collectors add nectar to the honey vault, honey
+manufacturers convert the nectar into honey, and egg care bees turn eggs into workers who can be
+assigned to jobs. During each shift, the Queen lays eggs (just under two shifts per egg). The
+Queen updates her status report at the end of the shift. It shows the honey vault status and the
+number of eggs, unassigned workers, and bees assigned to each job.
+
+Start by building the static HoneyVault class
+The HoneyVault class is a good starting point because it has no dependencies -- it doesn't call
+methods or use properties or fields from any other class. Start by creating a new class called
+HoneyVault. Make it static, then look at the class diagram and add the class members.
+
+HoneyVault has two constants (NECTAR_CONVERSION_RATIO = .19f and LOW_LEVEL_WARNING = 10f) that
+are used in the methods. Its private honey field is initialized to 25f and its private nectar
+field is initialized to 100f.
+
+The ConvertNectarToHoney method converts nectar to honey. It takes a float parameter called amount,
+subtracts that amount from its nectar field, and adds amount * NECTAR_CONVERSION_RATIO to the
+honey field. If the amount passed to the method is less than the nectar left in the vault, it
+converts all the remaining nectar.
+
+The ConsumeHoney method is how the bees use honey to do their jobs. It takes a parameter, amount.
+if it's greater than the honey field it subtracts amount from honey and returns true. Otherwise,
+it returns false.
+
+The CollectNectar method is called by the NectarCollecter bee each shift. It takes a parameter,
+amount. If amount is greater than zero, it adds it to the honey field.
+
+The StatusReport property only has a get accessor that returns a string with separate lines with
+the amount of honey and the amount of nectar in the vault. If the honey is below LOW_LEVEL_WARNING,
+it adds a warning ("LOW HONEY - ADD A HONEY MANUFACTURER"). It does the same for the nectar field.
+
+Create the Bee class and start building the Queen, HoneyManufaturer, NectarCollector, and EggCare
+classes
+Create the Bee base class. Its constructor takes a string, which it uses to set the read-only Job
+property. Each Bee subclass passes a string to the base constructor -- "Queen", "Nectar Collector",
+"Honey Manufacturer", "Egg Care" - so the Queen class has this code: public Queen() : base("Queen")
+The virtual readonly CostPerShift property lets each Bee subclass define the amount of honey it
+consumes each shift. The WorkTheNextShift method passes HoneyConsumed to the HoneyVault.ConsumeHoney
+method. If ConsumeHoney returns true, there's enough honey left in the hive, so WorkTheNextShift
+then calls DoJob.
+Create empty HoneyManufacturer, NectarCollector and EggCare classes that just extend Bee -- you'll
+need them to build the Queen class. You'll finish the Queen class first, then come back and finish
+the other Bee subclasses.
+Each Bee subclass overrides the DoJob method with code to do its job, and overrides the 
+CostPerShift property with the amount of honey it consumes each shift.
+Here are all the values for the read-only Bee.CostPerShift property for each Bee subclass:
+Queen.CostPerShift returns 2.15f, NectarCollector.CostPerShift returns 1.95f, HoneyManufacturer
+is 1.7f, and EggCare is 1.35f
+
+Finish building the Queen class
+The Queen class has a private Bee field[] field called workers. It starts off as an empty array. We
+gave you the AddWorker method to add Bee references to it.
+Her AssignBee method takes a parameter with a job name like "Egg Care" it has a switch with cases that call
+AddWorker. For example, if a job is "Egg Care" then it calls AddWorker(new EggCare(this)).
+There are two private float fields called eggs and unassignedWorkers to keep track of the number of
+eggs (which she adds to each shift) and the number of workers waiting to be assigned.
+She overrides the DoJob method to add eggs, tell the worker bees to work, and feed honey to the unassigned
+workers waiting to work. The EGGS_PER_SHIFT constant .45f is added to the eggs field. She uses a foreach loop
+to call each wroker's WorkTheNextShift method. Then she calls HoneyVault.ConsumeHoney, passing it the constant
+HONEY_PER_UNASSIGNED_WORKER set to 0.5f * workers.Length.
+She starts off with three unassigned workers -- her constructor calls the AssignBee method three times to create
+three worker bees, one of each type.
+The EggCare bees call the Queens CareForEggs method. It takes a float paramter called eggsToConvert. If the eggs
+field > eggsToConvert, it subtracts eggsToConvert and adds it to unassignedWorkers.
+Look carefully at the status reports in the screenshot -- her private UpdateStatusReport method generates it
+using HoneyVault.StatusReport. She calls UpdateStatusReport at the end of her DoJob and AssignBee methods.
+
+Finish building the other Bee clases
+The NectarCollector class has a const NECTAR_COLLECTED_PER_SHIFT = 33.25f. It's DoJob method passes that const to
+HoneyVault.CollectNectar.
+The HoneyManufacturer class has a const NECTAR_PROCESSED_PER_SHIFT = 33.15f and its DoJob method passes that const 
+to HoneyVault.ConvertNectarToHoney.
+
+Build the code for the main window
+We gave to the XAML for the main window. Your job is to add the code-behind. It has a private queen field that's
+initialized in the constructor, and event handlers for the buttons and the ComboBox.
+Hook up the event handlers. The "assign job" button calls queen.AssignBee(jobSelector.Text), The "Work the next
+shift" button calls queen.WorkTheNextShift. They both set statusReport.Text equal to queen.StatusReport.
+
+Some more details about how the Beehive Management System works
+The goal is to get the TOTAL WORKERS line in the status report (which lists the total number of assigned workers)
+to go as high as possible -- and that all depends on which workers you add and when you add them. Workers drain 
+honey; if you've got too many of one kind of worker, the honey starts to go down. As you run the program, watch
+the honey and nectar numbers. After the first few shifts, you'll get a low honey warning, so add a honey 
+manufacturer; after a few more, you'll get a low nectar warning (so add a nectar collector) -- after that, you'll
+need to figure out how to staff the hive. How high can you get TOTAL WORKERS to go before the honey runs out?
+
