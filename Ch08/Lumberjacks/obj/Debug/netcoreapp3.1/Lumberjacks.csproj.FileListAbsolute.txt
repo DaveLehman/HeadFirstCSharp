@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\bin\Debug\netcoreapp3.1\Lumberjacks.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Lumberjacks\obj\Debug\netcoreapp3.1\Lumberjacks.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeehiveWithIWorker.Bee">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAUAAACAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Bee.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BeehiveWithIWorker.Queen">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACEAIAAACAAABAAUAAAAACgAAAAAQASAAAA=</HashCode>
+      <FileName>Queen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeehiveWithIWorker.NectarCollector">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>NectarCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeehiveWithIWorker.HoneyManufacturer">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>HoneyManufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeehiveWithIWorker.EggCare">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEUAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>EggCare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BeehiveWithIWorker.IWorker">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

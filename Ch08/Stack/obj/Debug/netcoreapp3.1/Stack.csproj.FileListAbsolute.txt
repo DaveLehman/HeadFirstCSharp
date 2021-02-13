@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

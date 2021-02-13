@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\bin\Debug\netcoreapp3.1\IClown.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\IClown\obj\Debug\netcoreapp3.1\IClown.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\bin\Debug\netcoreapp3.1\ListOfShoes.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\ListOfShoes\obj\Debug\netcoreapp3.1\ListOfShoes.genruntimeconfig.cache

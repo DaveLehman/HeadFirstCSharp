@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

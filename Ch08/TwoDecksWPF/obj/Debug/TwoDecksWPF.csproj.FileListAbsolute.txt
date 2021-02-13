@@ -1,0 +1,16 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\MainWindow.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\App.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF_MarkupCompile.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF_MarkupCompile.lref
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\bin\Debug\TwoDecksWPF.exe.config
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\bin\Debug\TwoDecksWPF.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\bin\Debug\TwoDecksWPF.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\MainWindow.baml
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.g.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.Properties.Resources.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.csproj.GenerateResource.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\TwoDecksWPF\obj\Debug\TwoDecksWPF.csprojAssemblyReference.cache

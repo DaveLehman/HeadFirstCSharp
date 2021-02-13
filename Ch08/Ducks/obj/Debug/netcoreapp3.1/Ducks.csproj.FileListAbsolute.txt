@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\bin\Debug\netcoreapp3.1\Ducks.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Ducks\obj\Debug\netcoreapp3.1\Ducks.genruntimeconfig.cache

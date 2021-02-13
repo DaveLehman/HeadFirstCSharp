@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

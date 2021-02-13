@@ -1,0 +1,34 @@
+﻿<Window x:Class="TwoDecksWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TwoDecksWPF"
+        mc:Ignorable="d"
+        Title="Two Decks" Height="450" Width="400">
+    <Window.Resources>
+        <local:Deck x:Key="leftDeck" />
+        <local:Deck x:Key="rightDeck" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Deck _1" x:Name="deck1Label" Margin="10,0,0,0" Target="{Binding ElementName=leftDeckListBox, Mode=OneWay}" />
+        <Label Grid.Row="0" Grid.Column="1" Content="Deck _2" x:Name="deck2Label" Margin="10,0,0,0" Target="{Binding ElementName=rightDeckListBox, Mode=OneWay}" />
+        <ListBox Grid.Row="1" Grid.Column="0" x:Name="leftDeckListBox" Margin="10,0,10,10" ItemsSource="{DynamicResource leftDeck}" MouseDoubleClick="leftDeckListBox_MouseDoubleClick" KeyDown="leftDeckListBox_KeyDown" />
+        <ListBox Grid.Row="1" Grid.Column="1" x:Name="rightDeckListBox" Margin="10,0,10,10" ItemsSource="{DynamicResource rightDeck}" MouseDoubleClick="rightDeckListBox_MouseDoubleClick" KeyDown="rightDeckListBox_KeyDown" />
+        <Button Grid.Row="2" Grid.Column="0" Content="_Shuffle" x:Name="shuffleLeftDeck" Margin="10,0,10,10" Click="shuffleLeftDeck_Click" />
+        <Button Grid.Row="2" Grid.Column="1" Content="_Clear" x:Name="clearRightDeck" Margin="10,0,10,10" Click="clearRightDeck_Click" />
+        <Button Grid.Row="3" Grid.Column="0" Content="_Reset" x:Name="resetLeftDeck" Margin="10,0,10,10" Height="20" VerticalAlignment="Bottom" Click="resetLeftDeck_Click" />
+        <Button Grid.Row="3" Grid.Column="1" Content="Sor_t" x:Name="sortRightDeck" Margin="10,0,10,10" Click="sortRightDeck_Click" />
+    </Grid>
+    
+</Window>

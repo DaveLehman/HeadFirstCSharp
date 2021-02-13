@@ -1,0 +1,15 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\bin\Debug\BeehiveWithIWorker.exe.config
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\bin\Debug\BeehiveWithIWorker.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\bin\Debug\BeehiveWithIWorker.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\MainWindow.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\App.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker_MarkupCompile.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker_MarkupCompile.lref
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\MainWindow.baml
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.g.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.Properties.Resources.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.csproj.GenerateResource.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch07\BeehiveWithIWorker\obj\Debug\BeehiveWithIWorker.pdb

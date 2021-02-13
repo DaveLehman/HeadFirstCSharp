@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\bin\Debug\netcoreapp3.1\DogSort.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\DogSort\obj\Debug\netcoreapp3.1\DogSort.genruntimeconfig.cache

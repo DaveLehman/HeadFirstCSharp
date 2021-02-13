@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\bin\Debug\netcoreapp3.1\EnumerableDucksAndBirds.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch08\EnumerableDucksAndBirds\obj\Debug\netcoreapp3.1\EnumerableDucksAndBirds.genruntimeconfig.cache
