@@ -1,0 +1,14 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\bin\Debug\GoFishWPF.exe.config
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\bin\Debug\GoFishWPF.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\bin\Debug\GoFishWPF.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\MainWindow.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\App.g.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF_MarkupCompile.lref
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\MainWindow.baml
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.g.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.Properties.Resources.resources
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.csproj.GenerateResource.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\GoFishWPF\obj\Debug\GoFishWPF.pdb

@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\bin\Debug\netcoreapp3.1\EnumerableSequence.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\EnumerableSequence\obj\Debug\netcoreapp3.1\EnumerableSequence.genruntimeconfig.cache

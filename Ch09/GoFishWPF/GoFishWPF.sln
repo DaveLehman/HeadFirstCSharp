@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishWPF", "GoFishWPF.csproj", "{2EAD327A-7C3E-4D67-A72D-B97FBF27E0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishTests", "..\GoFishTests\GoFishTests.csproj", "{792A0538-8EAF-40F6-BB2E-196B14FE3693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAD327A-7C3E-4D67-A72D-B97FBF27E0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAD327A-7C3E-4D67-A72D-B97FBF27E0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAD327A-7C3E-4D67-A72D-B97FBF27E0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAD327A-7C3E-4D67-A72D-B97FBF27E0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792A0538-8EAF-40F6-BB2E-196B14FE3693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792A0538-8EAF-40F6-BB2E-196B14FE3693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792A0538-8EAF-40F6-BB2E-196B14FE3693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792A0538-8EAF-40F6-BB2E-196B14FE3693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984664A2-61BB-4E10-B77B-061584A8A11D}
+	EndGlobalSection
+EndGlobal

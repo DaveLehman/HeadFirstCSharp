@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\bin\Debug\netcoreapp3.1\LinqTest.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LinqTest\obj\Debug\netcoreapp3.1\LinqTest.genruntimeconfig.cache

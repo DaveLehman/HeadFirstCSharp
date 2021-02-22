@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\bin\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambaLinqSharpenYourPencil\obj\Debug\netcoreapp3.1\LambaLinqSharpenYourPencil.genruntimeconfig.cache

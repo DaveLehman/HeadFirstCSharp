@@ -1,0 +1,77 @@
+﻿<Window x:Class="GoFishWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GoFishWPF"
+        mc:Ignorable="d"
+        
+        Title="Go Fish!" Height="450" Width="800">
+    <!--<Window.Resources>
+        <local:GameController x:Key="gameController" />
+        <local:BooleanVisibilityConverter x:Key="visibilityConverter" />
+    </Window.Resources> -->
+        <!--<Grid DataContext="{StaticResource gameController}"> -->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" /> 
+            <RowDefinition /> 
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Label x:Name="GameProgressLbl" Content="GAME PROGRESS"/>
+        <!--<TextBox x:Name="GameProgressTBox" Text="{Binding Status, Mode=OneWay}" Grid.Row="1" VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" Margin="20,0,20,0" /> -->
+        <TextBox x:Name="GameProgressTBox" Grid.Row="1" Grid.RowSpan="2" VerticalScrollBarVisibility="Visible" Margin="20,0,20,0" AcceptsReturn="True" />
+        <Label x:Name="BooksLbl" Content="BOOKS" Grid.Row="3" />
+        <ListBox x:Name="BooksLB" Grid.Row="4" Grid.RowSpan="4" Margin="20,0,20,20">
+        </ListBox>
+        <Label x:Name="HandLbl" Grid.Column="1" Content="YOUR HAND" />
+        <ListBox x:Name="YourHandLB"  Grid.Column="1" Grid.Row="1" Grid.RowSpan="4" ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="20,0,20,0" >
+        </ListBox>
+        <Label x:Name="AskLbl" Content="Asking From:" Grid.Row="5" Grid.Column="1" />
+        <ListBox x:Name="OpponentsAskLB"  Grid.Column="1" Grid.Row="6"  ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="20,0,20,0">
+        </ListBox>
+        <Button x:Name="AskBtn" Content="Ask for a Card" Grid.Row="7" Grid.Column="1" Margin="20,10,20,20" Click="AskBtn_Click" />
+ 
+        <!-- These are setup items not visible while game is running    -->
+
+        <Label x:Name="PlayerNameLbl" Grid.Row="2"  Grid.Column="1" Content="Enter Your Name" Margin="20,0,0,0" />
+        <Label x:Name="OpponentListLbl" Grid.Row="2"  Content="Enter Names of one to four opponents" Margin="20,0,0,0" />
+        <ListView x:Name="PlayerNameLV"  Grid.Row="3" Grid.Column="1"  Margin="20,0,20,0">
+            <ListViewItem>
+                <TextBox x:Name="PlayerNameTBox"  Width="100">Human</TextBox>
+            </ListViewItem>
+        </ListView>
+
+        <!--<TextBox x:Name="OpponentLB" Grid.Row="3"  Margin="20,0,20,0" >
+            <ListBoxItem Content="Fred" />
+            <ListBoxItem Content="Barney" />
+            <ListBoxItem Content="Wilma" />
+            <ListBoxItem Content="Betty" />
+        </TextBox> -->
+        <ListView x:Name="OpponentTB" Grid.Row="3"  Margin="20,0,20,0" IsTextSearchEnabled="False" >
+            <ListViewItem>
+                <TextBox x:Name="OpponentTB0"  Width="100">Fred</TextBox>
+            </ListViewItem>
+            <ListViewItem>
+                <TextBox x:Name="OpponentTB1"  Width="100">Barney</TextBox>
+            </ListViewItem>
+            <ListViewItem>
+                <TextBox x:Name="OpponentTB2"  Width="100">Wilma</TextBox>
+            </ListViewItem>
+            <ListViewItem>
+                <TextBox x:Name="OpponentTB3"  Width="100">Betty</TextBox>
+            </ListViewItem>
+        </ListView>
+        <Button x:Name="PlayGameBtn" Content="Play Game" Grid.Row="4" Grid.ColumnSpan="2" Width="200" Margin="0,10,0,0" Click="PlayGameBtn_Click"  />
+        <Button x:Name="QuitBtn" Content="Quit" Grid.Row="6" Grid.ColumnSpan="2" Width="200" Margin="0,10,0,0" Click="QuitBtn_Click" />
+    </Grid>
+</Window>

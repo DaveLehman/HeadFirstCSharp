@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\bin\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LINQJoinAndAnonymousType\obj\Debug\netcoreapp3.1\LINQJoinAndAnonymousType.genruntimeconfig.cache

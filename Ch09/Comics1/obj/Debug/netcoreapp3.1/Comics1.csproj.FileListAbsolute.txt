@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\bin\Debug\netcoreapp3.1\Comics1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\Comics1\obj\Debug\netcoreapp3.1\Comics1.genruntimeconfig.cache

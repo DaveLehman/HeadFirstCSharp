@@ -1,0 +1,65 @@
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" /> 
+            <RowDefinition /> 
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Label Content="GAME PROGRESS"/>
+        <!--<TextBox x:Name="GameProgressTBox" Text="{Binding Status, Mode=OneWay}" Grid.Row="1" VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" Margin="20,0,20,0" /> -->
+        <TextBox Grid.Row="1" Grid.RowSpan="2" VerticalScrollBarVisibility="Visible" Margin="20,0,20,0" AcceptsReturn="True" />
+        <Label Content="BOOKS" Grid.Row="3" />
+        <ListBox x:Name="BooksLB" Grid.Row="4" Grid.RowSpan="4" Margin="20,0,20,20">
+            <ListBoxItem Content="Charlie has a book of Aces"/>
+            <ListBoxItem Content="Mabel has a book of Twos"/>
+            <ListBoxItem Content="Billy has a book of Threes"/>
+            <ListBoxItem Content="John has a book of Fours"/>
+            <ListBoxItem Content="Yoko has a book of Fives"/>
+            <ListBoxItem Content="Rachel has a book of Sixes"/>
+            <ListBoxItem Content="Sydnyey has a book of Sevens"/>
+            <ListBoxItem Content="Otto has a book of Eights"/>
+            <ListBoxItem Content="Conan has a book of Nines"/>
+            <ListBoxItem Content="MuadDib has a book of Tens"/>
+            <ListBoxItem Content="Charlie has a book of Jacks"/>
+            <ListBoxItem Content="Charlie has a book of Queens"/>
+            <ListBoxItem Content="Charlie has a book of Kings"/>
+        </ListBox>
+        <Label Grid.Column="1" Content="YOUR HAND" />
+        <ListBox x:Name="YourHandLB"  Grid.Column="1" Grid.Row="1" Grid.RowSpan="4" ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="20,0,20,0" >
+            <ListBoxItem Content="2 OF SPADES"/>
+            <ListBoxItem Content="2 OF DIAMONDS"/>
+            <ListBoxItem Content="2 OF HEARTS"/>
+            <ListBoxItem Content="4 OF SPADES"/>
+            <ListBoxItem Content="7 OF DIAMONDS"/>
+            <ListBoxItem Content="7 OF CLUBS"/>
+            <ListBoxItem Content="8 OF SPADES"/>
+            <ListBoxItem Content="8 OF HEARTS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="JACK OF CLUBS"/>
+            <ListBoxItem Content="QUEEN OF DIAMONDS"/>
+        </ListBox>
+        <Label Content="Asking From:" Grid.Row="5" Grid.Column="1" />
+        <ListBox x:Name="OpponentsLB"  Grid.Column="1" Grid.Row="6"  ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="20,0,20,0">
+                <ListBoxItem Content="Charlie" />
+                <ListBoxItem Content="Sam" />
+                <ListBoxItem Content="Goober" />
+                <ListBoxItem Content="Skyler" IsSelected="True" />
+            </ListBox>
+        <Button x:Name="AskBtn" Content="Ask for a Card" Grid.Row="7" Grid.Column="1" Margin="20,10,20,20" />
+    </Grid>

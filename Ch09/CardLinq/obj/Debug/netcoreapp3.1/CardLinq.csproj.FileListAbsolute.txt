@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\bin\Debug\netcoreapp3.1\CardLinq.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\CardLinq\obj\Debug\netcoreapp3.1\CardLinq.genruntimeconfig.cache

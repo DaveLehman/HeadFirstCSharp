@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\bin\Debug\netcoreapp3.1\LambdaTest.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LambdaTest\obj\Debug\netcoreapp3.1\LambdaTest.genruntimeconfig.cache

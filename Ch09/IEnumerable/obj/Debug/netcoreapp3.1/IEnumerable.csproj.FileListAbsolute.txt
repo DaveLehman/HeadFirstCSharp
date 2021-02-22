@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\bin\Debug\netcoreapp3.1\LazyEvaluation.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\LazyEvaluation\obj\Debug\netcoreapp3.1\LazyEvaluation.genruntimeconfig.cache

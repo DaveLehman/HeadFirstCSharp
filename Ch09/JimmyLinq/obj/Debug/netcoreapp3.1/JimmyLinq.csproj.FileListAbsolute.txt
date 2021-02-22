@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\bin\Debug\netcoreapp3.1\JimmyLinq.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.genruntimeconfig.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\JimmyLinq\obj\Debug\netcoreapp3.1\JimmyLinq.csprojAssemblyReference.cache

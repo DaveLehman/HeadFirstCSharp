@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch09\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.genruntimeconfig.cache
