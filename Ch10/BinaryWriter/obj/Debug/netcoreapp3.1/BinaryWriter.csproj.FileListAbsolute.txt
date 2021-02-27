@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\bin\Debug\netcoreapp3.1\BinaryWriter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\BinaryWriter\obj\Debug\netcoreapp3.1\BinaryWriter.genruntimeconfig.cache

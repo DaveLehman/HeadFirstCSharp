@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\bin\Debug\netcoreapp3.1\UnicodeExplore.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\UnicodeExplore\obj\Debug\netcoreapp3.1\UnicodeExplore.genruntimeconfig.cache

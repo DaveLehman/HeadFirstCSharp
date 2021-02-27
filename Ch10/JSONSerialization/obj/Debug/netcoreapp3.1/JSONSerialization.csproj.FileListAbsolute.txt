@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\bin\Debug\netcoreapp3.1\JSONSerialization.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\JSONSerialization\obj\Debug\netcoreapp3.1\JSONSerialization.genruntimeconfig.cache

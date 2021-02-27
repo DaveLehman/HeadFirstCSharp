@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\bin\Debug\netcoreapp3.1\Commisioner.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\Commisioner\obj\Debug\netcoreapp3.1\Commisioner.genruntimeconfig.cache

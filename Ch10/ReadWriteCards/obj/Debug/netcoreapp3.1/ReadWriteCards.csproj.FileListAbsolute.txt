@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\bin\Debug\netcoreapp3.1\ReadWriteCards.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\ReadWriteCards\obj\Debug\netcoreapp3.1\ReadWriteCards.genruntimeconfig.cache

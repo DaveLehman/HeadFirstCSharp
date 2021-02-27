@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\bin\Debug\netcoreapp3.1\HouseExplore.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.genruntimeconfig.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HouseExplore\obj\Debug\netcoreapp3.1\HouseExplore.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\bin\Debug\netcoreapp3.1\HexDumper2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.genruntimeconfig.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper2\obj\Debug\netcoreapp3.1\HexDumper2.csprojAssemblyReference.cache

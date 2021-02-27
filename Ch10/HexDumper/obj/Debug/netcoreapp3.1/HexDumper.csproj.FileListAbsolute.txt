@@ -1,0 +1,12 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\bin\Debug\netcoreapp3.1\HexDumper.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HexDumper\obj\Debug\netcoreapp3.1\HexDumper.genruntimeconfig.cache

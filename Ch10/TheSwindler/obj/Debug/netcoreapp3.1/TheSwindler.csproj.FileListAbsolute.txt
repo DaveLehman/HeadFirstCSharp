@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\bin\Debug\netcoreapp3.1\TheSwindler.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\TheSwindler\obj\Debug\netcoreapp3.1\TheSwindler.genruntimeconfig.cache

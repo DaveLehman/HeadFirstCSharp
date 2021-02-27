@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\bin\Debug\netcoreapp3.1\HideAndSeek.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.genruntimeconfig.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch10\HideAndSeek\obj\Debug\netcoreapp3.1\HideAndSeek.csprojAssemblyReference.cache
