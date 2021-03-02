@@ -6,8 +6,6 @@ namespace HideAndSeek
     {
         static void Main(string[] args)
         {
-            
-
             while (true)
             {
                 GameController gameController = new GameController();

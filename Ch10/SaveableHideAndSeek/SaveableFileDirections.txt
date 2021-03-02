@@ -1,0 +1,20 @@
+﻿1. We created a class called SavedGame with four properties: a
+string to store the name of the player’s location, a Dictionary with
+opponent names as the key and their hiding place location names
+as the value, a List of found opponent names, and move number.
+
+2. We add a unit test that hid opponents in specific locations in the
+house, called ParseInput to play the game and find some of them,
+and then called ParseInput to save the game to a temporary file.
+Then it creates a new GameController and calls ParseInput to load
+the game from the temporary file, and checks various values to
+make sure the game was loaded. Then we delete the temporary file.
+
+3. We added a unit test to make sure the game does not allow
+filenames that included slashes or spaces (to prevent accidentally
+overwriting important system files).
+
+4. We updated GameController to parse the load and save
+commands and added the code that loads and saves the game,
+using JsonSerializer to serialize and deserialize the SavedGame
+class to a file in the current execution folder.
