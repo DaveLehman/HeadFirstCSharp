@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\bin\Debug\netcoreapp3.1\Finalizer.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\Finalizer\obj\Debug\netcoreapp3.1\Finalizer.genruntimeconfig.cache

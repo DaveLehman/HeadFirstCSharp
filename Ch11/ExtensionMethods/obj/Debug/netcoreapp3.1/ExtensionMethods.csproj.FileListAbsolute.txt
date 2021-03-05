@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

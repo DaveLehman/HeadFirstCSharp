@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\bin\Debug\netcoreapp3.1\OptionalParameters.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OptionalParameters\obj\Debug\netcoreapp3.1\OptionalParameters.genruntimeconfig.cache

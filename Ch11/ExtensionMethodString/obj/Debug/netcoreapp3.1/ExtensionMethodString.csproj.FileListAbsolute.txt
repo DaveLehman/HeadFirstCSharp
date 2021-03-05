@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\bin\Debug\netcoreapp3.1\ExtensionMethodString.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\ExtensionMethodString\obj\Debug\netcoreapp3.1\ExtensionMethodString.genruntimeconfig.cache

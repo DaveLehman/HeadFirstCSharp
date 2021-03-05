@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\bin\Debug\netcoreapp3.1\RefParameter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\RefParameter\obj\Debug\netcoreapp3.1\RefParameter.genruntimeconfig.cache

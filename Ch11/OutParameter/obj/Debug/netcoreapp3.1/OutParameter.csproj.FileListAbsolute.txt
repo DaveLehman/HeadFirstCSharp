@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch11\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.genruntimeconfig.cache
