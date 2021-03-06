@@ -1,0 +1,13 @@
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.exe
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.deps.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.runtimeconfig.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.runtimeconfig.dev.json
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\bin\Debug\netcoreapp3.1\Exception1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.csprojAssemblyReference.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.AssemblyInfoInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.AssemblyInfo.cs
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.csproj.CoreCompileInputs.cache
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.dll
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.pdb
+F:\terable2\Documents\HeadFirst\C#(4th)1\Ch12\Exception1\obj\Debug\netcoreapp3.1\Exception1.genruntimeconfig.cache
